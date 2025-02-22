@@ -1,3 +1,3 @@
 # MotionDetector
-This script detects motion in the video using open cv
+detects human motion in frame using opencv 
 
